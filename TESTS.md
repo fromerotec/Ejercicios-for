@@ -21,7 +21,7 @@ sudo -H pip3 install pytest
     pytest assignments/05PromedioSencillo
     ```
 
-- ## 18 Suma Dígitos
+- ## 18 Factorial
     ### Run command
     ```
     pytest assignments/18Factorial
